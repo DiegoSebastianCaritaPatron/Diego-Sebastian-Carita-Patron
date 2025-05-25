@@ -1,0 +1,17 @@
+body, html{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(fondo.png) center center;
+    background-size: cover;
+}
+.contenedor{
+    text-align: center;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+}
